@@ -4,21 +4,20 @@ Chatbot Streamlit berbasis Google Gemini dengan pilihan persona.
 
 ---
 
-## ✨ Fitur
-- Persona picker: Ahli Kucing, Ahli Strategi Bisnis, Ahli Periklanan, Ahli Gizi & Nutrisi, Ahli Manajemen Proyek, dan lainnya.
+## Fitur
+- Piluhan Persona: Ahli Kucing, Ahli Strategi Bisnis, Ahli Periklanan, Ahli Gizi & Nutrisi, Ahli Manajemen Proyek, dan lainnya.
 - Input **Gemini API Key** langsung di sidebar.
-- Indikator hijau kecil saat koneksi API sukses.
 - Statistik pemakaian: Requests, Prompt Tokens, Candidate Tokens, Total Tokens.
 
 ---
 
-## ⚙️ Prasyarat
+## Persyaratan
 - Python 3.10+ (disarankan 3.12)
 - Akun Google AI Studio (untuk Gemini API Key)
 
 ---
 
-## 📦 Instalasi
+## Instalasi
 
 ### 1) Clone repositori
 ```
