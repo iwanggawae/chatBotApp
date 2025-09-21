@@ -5,7 +5,7 @@ Chatbot Streamlit berbasis Google Gemini dengan pilihan persona.
 ---
 
 ## Fitur
-- Piluhan Persona: Ahli Kucing, Ahli Strategi Bisnis, Ahli Periklanan, Ahli Gizi & Nutrisi, Ahli Manajemen Proyek, dan lainnya.
+- Pilihan Persona: Ahli Kucing, Ahli Strategi Bisnis, Ahli Periklanan, Ahli Gizi & Nutrisi, Ahli Manajemen Proyek, dan lainnya.
 - Input **Gemini API Key** langsung di sidebar.
 - Statistik pemakaian: Requests, Prompt Tokens, Candidate Tokens, Total Tokens.
 
