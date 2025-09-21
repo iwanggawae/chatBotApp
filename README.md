@@ -48,6 +48,6 @@ CFG
 ---
 ### ▶️ Menjalankan Aplikasi
 ```
-streamlit run chatBotApp.py --server.port=8080 --server.address=0.0.0.0
+streamlit run chatBot.py --server.port=8080 --server.address=0.0.0.0
 ```
 
